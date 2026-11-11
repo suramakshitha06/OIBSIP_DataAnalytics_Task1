@@ -1,6 +1,6 @@
 # OIBSIP_DataAnalytics_Task1
 Title:
-EXPLORATORY DATA ANALYSIS ON RETAIL SALES DATSET
+EXPLORATORY DATA ANALYSIS ON RETAIL SALES DATASET
 DESCRIPTION:
 This project focuses on analyzing retail sales data to understand customer behavior and sales patterns using simple data analysis and visualization techniques.
 
